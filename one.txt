@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 i love kondmuchu
 what are you telling
 ok
+=======
+ok thins is for sure
+ok
+thanks
+ok kondmuchu
+
+>>>>>>> bugfix
